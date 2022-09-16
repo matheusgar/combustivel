@@ -27,7 +27,7 @@ export default function App() {
   return (
     <View style={styles.container}>
 		<View style={styles.bloco}>
-	  		<Text style={styles.titulo}>Combustível</Text>
+	  		<Text style={styles.titulo}>Combustível </Text>
 		</View>
 		<View style={styles.bloco}>
 			<Text> Valor 1: </Text>
